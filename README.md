@@ -2,7 +2,7 @@
 
 <p>
 
-💻 Selenium (Python - Java), Pytest, Postman (API REST), MySQL, RestAssured, Cucumber.
+💻 Selenium (Python - Java), Pytest, Postman (API REST), MySQL.
   
 💻 Metodologías Ágiles: SCRUM / KANBAN
   
