@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yamila</h1>
 <h3 align="center">QA Engineer</h3>
 
-- 📄 Skills **(Python), Pytest, Postman (API REST), MySQL.**
+- 📄 Skills **(Python), Pytest, Selenium, Playwright, Postman (API REST), MySQL.**
 
 - 📄 CI/CD **GitHub Actions - Jenkins**
 
